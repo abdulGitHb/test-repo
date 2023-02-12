@@ -3,7 +3,7 @@ import React from 'react'
 function Anushka() {
   return (
     <div>
-      Hey
+      Anushka
     </div>
   )
 }
