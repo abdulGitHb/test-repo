@@ -1,6 +1,6 @@
 import Adarsh from './Adarsh';
 import './App.css';
-import Khushi from './component/Khushi';
+import Khushi from './Khushi';
 
 import Anushka from './components/Anushka';
 
