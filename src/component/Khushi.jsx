@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Khushi() {
+function Khushi() {
   return (
-    <div>
-     Khushi Agrawal
-    </div>
+    <div>Khushi</div>
   )
 }
+
+export default Khushi;
