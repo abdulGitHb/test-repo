@@ -8,5 +8,4 @@ function Anushka() {
   )
 }
 
-export default Anushka
-Hey
+export default Anushka;
