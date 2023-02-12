@@ -1,10 +1,15 @@
 import './App.css';
+
+import Anushka from './components/Anushka';
+
 import Aditya from './aditya';
+
 
 function App() {
   return (
     <div className="App">
       <h1>Hello there, this is a test project</h1>
+      <Anushka/>
       <Aditya/>
 
       <h2>Hello Another section added by abdul</h2>
