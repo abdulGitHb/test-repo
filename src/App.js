@@ -1,9 +1,10 @@
 import './App.css';
+import Khushi from './component/Khushi';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello there, this is a test project</h1>
+      <Khushi/>
     </div>
   );
 }
